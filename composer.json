@@ -1,19 +1,14 @@
 {
-    "name": "atymic/twitter",
+    "name": "bel1haz0r/twitter-bot",
     "description": "Twitter API for PHP & Laravel",
     "keywords": ["twitter", "laravel"],
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "atymic",
-            "email": "atymicq@gmail.com",
-            "homepage": "https://atymic.dev"
-        },
-        {
-            "name": "reliq",
-            "email": "reliq@reliqarts.com",
-            "homepage": "https://iamreliq.com"
+            "name": "Bel1haz0r",
+            "email": "djordje.kosanovic@justphoenix.io",
+            "homepage": "https://justphoenix.io"
         }
     ],
     "require": {
